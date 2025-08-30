@@ -1,0 +1,2 @@
+# learninggithubaction
+learning github action
